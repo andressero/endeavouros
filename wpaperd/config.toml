@@ -1,0 +1,9 @@
+[HDMI-A-1]
+# path = "/usr/share/endeavouros/backgrounds/eos_wallpapers_community/"
+path = "/home/andres/Pictures/wallpapers/"
+duration = "10m"
+
+[DP-1]
+# path = "/usr/share/endeavouros/backgrounds/eos_wallpapers_community/"
+path = "/home/andres/Pictures/wallpapers/"
+duration = "10m"
